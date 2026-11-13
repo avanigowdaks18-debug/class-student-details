@@ -145,7 +145,9 @@ void student_ARSHIYA_KHANUM() {
 }
 
 void student_AVANI_K_S() {
-    printf("AVANI K S is absent\n");
+    printf("Name :AVANI K S
+        USN :4JN25CS023
+        Branch : CSE \n");
 }
 
 void student_AVANI_L() {
